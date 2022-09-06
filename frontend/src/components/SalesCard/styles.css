@@ -4,8 +4,6 @@
     padding: 20px 10px;
 }
 
-
-
 .dsmeta-sales-title {
     color: #676FFF;
     font-size: 24px;
@@ -61,7 +59,7 @@
     background-color: #384459;
 }
 
-.dsmeta-red-btn-container{
+.dsmeta-red-btn-container {
     display: flex;
     justify-content: center;
 }
